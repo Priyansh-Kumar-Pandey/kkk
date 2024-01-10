@@ -30,13 +30,8 @@
 <distributionManagement>
     <repository>
         <id>central</id>
-        <name>ip-172-31-34-70-releases</name>
-        <url>http://ec2-13-233-196-123.ap-south-1.compute.amazonaws.com:8081/artifactory/libs-release-local</url>
+        <name>a0wwnolifhcco-artifactory-primary-0-releases</name>
+        <url>https://rommeee.jfrog.io/artifactory/priyansh-libs-release</url>
     </repository>
-    <snapshotRepository>
-        <id>snapshots</id>
-        <name>ip-172-31-34-70-snapshots</name>
-        <url>http://ec2-13-233-196-123.ap-south-1.compute.amazonaws.com:8081/artifactory/libs-snapshot-local</url>
-    </snapshotRepository>
 </distributionManagement>
 </project>
